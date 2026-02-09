@@ -3,6 +3,7 @@
   "name": "ai-translator",
   "title": "AI Translator",
   "description": "Translate to Japanese and get feedback using Structured Outputs.",
+  "categories": ["Productivity"],
   "icon": "icon.png",
   "author": "ususso",
   "platforms": [
