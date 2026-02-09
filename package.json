@@ -44,7 +44,18 @@
       "default": "gpt-4o-mini",
       "data": [
         { "title": "GPT-4o Mini (Fast)", "value": "gpt-4o-mini" },
-        { "title": "GPT-4o (High Quality)", "value": "gpt-4o-2024-08-06" }
+        { "title": "GPT-4o (High Quality)", "value": "gpt-4o" },
+        { "title": "GPT-4.1 Nano (Fastest)", "value": "gpt-4.1-nano" },
+        { "title": "GPT-4.1 Mini (Fast)", "value": "gpt-4.1-mini" },
+        { "title": "GPT-4.1 (High Quality)", "value": "gpt-4.1" },
+        { "title": "GPT-5 Nano (Fastest)", "value": "gpt-5-nano" },
+        { "title": "GPT-5 Mini (Fast)", "value": "gpt-5-mini" },
+        { "title": "GPT-5", "value": "gpt-5" },
+        { "title": "GPT-5 Chat (Latest)", "value": "gpt-5-chat-latest" },
+        { "title": "GPT-5.1", "value": "gpt-5.1" },
+        { "title": "GPT-5.1 Chat (Latest)", "value": "gpt-5.1-chat-latest" },
+        { "title": "GPT-5.2", "value": "gpt-5.2" },
+        { "title": "GPT-5.2 Chat (Latest)", "value": "gpt-5.2-chat-latest" }
       ]
     }
   ],
