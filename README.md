@@ -33,6 +33,10 @@ npm run dev
 2. Run the command: "Translate & Feedback".
 3. Enter English text.
 
+| ![Translate command input](assets/screenshots/usage-command.png) | ![Translation and feedback detail view](assets/screenshots/usage-detail.png) |
+|:--:|:--:|
+| Translate & Feedback command | Translation detail view |
+
 The detail view shows:
 - Japanese translation
 - Original input (quoted)
